@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4887572395608854570}
   m_Layer: 0
   m_Name: PromiseFactory
-  m_TagString: Untagged
+  m_TagString: PromiseFactory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43,3 +43,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fc7938a4fd9f8c47a2b00f7b54e5a19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PromiseExecutor: {fileID: 3191311283645180465, guid: 7c37bd5fffbcbe84a844150e42034f93, type: 3}
